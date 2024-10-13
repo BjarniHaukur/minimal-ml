@@ -1,6 +1,7 @@
 jupyter
 ipykernel
 
+tqdm
 numpy
 matplotlib
 
